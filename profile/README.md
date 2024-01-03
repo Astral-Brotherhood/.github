@@ -1,11 +1,11 @@
 
 ## About
-Status: **Active**
-Founded: **August 22, 2021**
-Members: **39** (Lunarium and up)
-Leader(s): **Joey_Coconut**, **LordGalvatronMC**, **smcz19**
-Bases: **Vega, Santiago, Menegroth, Astralia, Okab, Capybara Castle, Nautilus, Poppy Town, Durkaa's Farm, End Gape, New Lugdunum, Obsidian Isle, Helheim, Helheim 2, Hintertown 6, Neritum, Skylight Haven (joint base with SBA), Lidenbrock, The Rift, Solaris, Polaris, Spawn Migration, Taiyo, Stellaris, Molaris, Aeolus, Elsweyr, Dubrovnik, New Menegroth, Concord and others**
-The Astral Brotherhood is a private building group founded on the legacy of its predecessor, the Astral Order.
+Status: **Active**</br>
+Founded: **August 22, 2021**</br>
+Members: **39** (Lunarium and up)</br>
+Leader(s): **Joey_Coconut**, **LordGalvatronMC**, **smcz19**</br>
+Bases: **Vega, Santiago, Menegroth, Astralia, Okab, Capybara Castle, Nautilus, Poppy Town, Durkaa's Farm, End Gape, New Lugdunum, Obsidian Isle, Helheim, Helheim 2, Hintertown 6, Neritum, Skylight Haven (joint base with SBA), Lidenbrock, The Rift, Solaris, Polaris, Spawn Migration, Taiyo, Stellaris, Molaris, Aeolus, Elsweyr, Dubrovnik, New Menegroth, Concord and others**</br>
+The Astral Brotherhood is a private building group founded on the legacy of its predecessor, the Astral Order.</br>
 
 
 ## History
